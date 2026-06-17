@@ -52,6 +52,6 @@ python project2.py
 
 ## Author
 
-**Manvi**
+**Manvitha Chowdary Mupparaju**
 Artificial Intelligence Intern
 DecodeLabs
