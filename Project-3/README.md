@@ -28,6 +28,31 @@ This project demonstrates the fundamental concepts of recommendation systems, wh
 
 User Interests → Difficulty Filtering → TF-IDF Vectorization → Cosine Similarity Calculation → Ranking → Course Recommendations
 
+## Sample Input
+
+```
+Enter your interests: python, ai, machine learning
+Preferred difficulty: Intermediate
+```
+
+## Sample Output
+
+```
+SMART COURSE RECOMMENDATIONS
+
+1. Machine Learning Fundamentals
+   Match Score : 94%
+   Difficulty  : Intermediate
+   Duration    : 8 Weeks
+   Matched Skills : ai, machine learning
+
+2. Data Science with Python
+   Match Score : 82%
+   Difficulty  : Intermediate
+   Duration    : 8 Weeks
+   Matched Skills : python
+```
+
 ## Learning Outcomes
 
 * Recommendation Systems
@@ -37,6 +62,15 @@ User Interests → Difficulty Filtering → TF-IDF Vectorization → Cosine Simi
 * Cosine Similarity
 * AI Recommendation Logic
 * Pattern Matching Techniques
+
+## Future Enhancements
+
+* Integration with CSV-based datasets
+* User feedback and rating system
+* Search history tracking
+* Recommendation score visualization using charts
+* Web application using Streamlit
+* Personalized user profiles and recommendations
 
 ## Author
 
